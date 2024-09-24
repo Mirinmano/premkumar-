@@ -1,0 +1,30 @@
+.GoogleIcon {
+    display: inline-block;
+    margin: 0;
+    outline: none;
+    box-sizing: border-box;
+    text-decoration: none;
+    line-height: normal;
+    div
+  }
+  .GoogleIcon--default {
+    border-width: 0;
+    width: 24px;
+    height: 24px;
+    content: url("https://dsc.pizzakutty.io/Components/Input/Atoms/GoogleIcon/google-default.aab0fa821b97d03544a232174e30195c.png");
+  }
+  .GoogleIcon--circle {
+    border-width: 1px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-left: 11px;
+    padding-right: 11px;
+    width: 48px;
+    height: 48px;
+    background-color: #ffffff;
+    border-radius: 48px;
+    border-color: #dfdfe3;
+    border-style: solid;
+    content: url("https://dsc.pizzakutty.io/Components/Input/Atoms/GoogleIcon/google-circle.aab0fa821b97d03544a232174e30195c.png");
+  }
+  
